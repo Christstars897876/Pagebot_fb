@@ -1,0 +1,21 @@
+{
+  "PAGE_ACCESS_TOKEN": "",
+  "VERIFY_TOKEN": "kupal",
+  "ADMINS": [
+    "100094118835962",
+    "61568806302361"
+  ],
+  "BOTNAME": "CHRIS BOT",
+  "PREFIX": "/",
+  "THEME_SETUP": {
+    "THEME": "Fiery",
+    "ADMIN": "Cliffvincentt",
+    "TITLE": "TROPP",
+    "HTML": [
+      "#CE2F16",
+      "#fe8916",
+      "#ff952a"
+    ]
+  },
+  "selfListen": false
+}
